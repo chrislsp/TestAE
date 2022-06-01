@@ -8,8 +8,8 @@
       id="id-ec157fd88ec6467d90524beb23c7d3d1"
       targetConnections="id-25836f77e27a4325a4f07cee3e48d2d3">
     <bounds
-        x="109"
-        y="138"
+        x="12"
+        y="12"
         width="120"
         height="55"/>
     <archimateElement
@@ -38,8 +38,8 @@
           href="AccessRelationship_id-a49b531912b147a9ac0c41b6c8ae042f.xml#id-a49b531912b147a9ac0c41b6c8ae042f"/>
     </sourceConnections>
     <bounds
-        x="120"
-        y="276"
+        x="12"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -51,8 +51,8 @@
       id="id-cc463545cc7e4be1b7f66efaea019d7c"
       targetConnections="id-6c61eac3c3d64b0a933dfb4cde5d46ab">
     <bounds
-        x="324"
-        y="276"
+        x="204"
+        y="66"
         width="120"
         height="55"/>
     <archimateElement
