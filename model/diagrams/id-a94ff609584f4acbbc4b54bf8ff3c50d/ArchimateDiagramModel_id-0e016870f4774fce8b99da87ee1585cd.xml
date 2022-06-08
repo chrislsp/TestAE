@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business Product View"
+    name="Business Product View (as-is)"
     id="id-0e016870f4774fce8b99da87ee1585cd">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -62,8 +62,8 @@
           href="CompositionRelationship_id-738f98bfbc82413fa684f1937c1d3879.xml#id-738f98bfbc82413fa684f1937c1d3879"/>
     </sourceConnections>
     <bounds
-        x="204"
-        y="48"
+        x="72"
+        y="12"
         width="517"
         height="301"/>
     <children
