@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Entity/Business Function Matrix"
+    id="id-dc4f34df2d5145668cb4a38ab73a2577">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-692144b002ef485d8514e639f3d96bd3"
+      textAlignment="1"
+      content="dokumen rujukan: g21e&#xD;&#xA;Data Entity / Business Function Matrix&#xD;&#xA;hal. 108">
+    <bounds
+        x="58"
+        y="42"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
