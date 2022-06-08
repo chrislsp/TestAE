@@ -1,4 +1,8 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kepala Sekolah"
-    id="id-f2160fca7ccf4964a29a66cadd89ba1b"/>
+    id="id-f2160fca7ccf4964a29a66cadd89ba1b">
+  <properties
+      key="Arsitek"
+      value="Ria"/>
+</archimate:BusinessActor>
