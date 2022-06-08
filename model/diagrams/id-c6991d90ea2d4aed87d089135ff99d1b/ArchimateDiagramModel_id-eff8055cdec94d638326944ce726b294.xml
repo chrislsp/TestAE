@@ -213,9 +213,9 @@
           href="AssociationRelationship_id-c5d758a174c84d01ac95ba12bfe22012.xml#id-c5d758a174c84d01ac95ba12bfe22012"/>
     </sourceConnections>
     <bounds
-        x="132"
+        x="108"
         y="528"
-        width="85"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
@@ -247,10 +247,10 @@
           href="AssociationRelationship_id-d83f2a49e1924f6e9490e4e0f12d2bbb.xml#id-d83f2a49e1924f6e9490e4e0f12d2bbb"/>
     </sourceConnections>
     <bounds
-        x="569"
+        x="552"
         y="624"
-        width="97"
-        height="55"/>
+        width="132"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-2de9b38cfc1747719a4d69a50349532f.xml#id-2de9b38cfc1747719a4d69a50349532f"/>
@@ -313,9 +313,9 @@
       id="id-01c24a6eab074e62a58ca46b34c9ee52"
       targetConnections="id-da5728dffb7246fb9d7cf1ef8ad6e249 id-5a83f68b8465464a96e9c4b53c018e1e">
     <bounds
-        x="575"
+        x="540"
         y="528"
-        width="85"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
