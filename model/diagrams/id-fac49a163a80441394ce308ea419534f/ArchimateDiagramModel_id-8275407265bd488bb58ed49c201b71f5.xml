@@ -1,18 +1,5 @@
 <archimate:ArchimateDiagramModel
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="New"
-    id="id-8275407265bd488bb58ed49c201b71f5">
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0ae7ed1b60ae42b8b681a179762778b7">
-    <bounds
-        x="43"
-        y="345"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Stakeholder"
-        href="Stakeholder_id-3f6984d766864c81baada0c6a1a528b3.xml#id-3f6984d766864c81baada0c6a1a528b3"/>
-  </children>
-</archimate:ArchimateDiagramModel>
+    id="id-8275407265bd488bb58ed49c201b71f5"
+    viewpoint="business_process_cooperation"/>
