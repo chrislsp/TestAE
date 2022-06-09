@@ -301,4 +301,16 @@
         xsi:type="archimate:Goal"
         href="Goal_id-5900e7d6ba764b64b3b397b3f442497a.xml#id-5900e7d6ba764b64b3b397b3f442497a"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0a6e0d304773453292a3030ccc3615aa">
+    <bounds
+        x="319"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_id-ae2127482c8441f39e5fc8fbd6068ee4.xml#id-ae2127482c8441f39e5fc8fbd6068ee4"/>
+  </children>
 </archimate:ArchimateDiagramModel>
